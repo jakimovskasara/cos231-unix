@@ -1,2 +1,2 @@
 # cos231-unix
-CPS2031 UNIX
+COS2031 UNIX
